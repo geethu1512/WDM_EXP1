@@ -54,9 +54,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### EMPLOYEE DATA
-<img width="1234" height="742" alt="580548321-753a7722-c5ac-4f5e-82a8-1b2b28c02628" src="https://github.com/user-attachments/assets/858aea38-1f1e-4c53-99e8-6ea53fab72a6" />
+<img width="1228" height="737" alt="image" src="https://github.com/user-attachments/assets/a1f61fae-7c37-44b9-aa5b-fc2b71afac19" />
+
 #### WEATHER DATA
-<img width="1220" height="733" alt="580548537-19d61f8d-de7f-4eb2-baaa-69fb3319a847" src="https://github.com/user-attachments/assets/c1e4035e-0f8f-47a7-90f6-57e4df9aa757" />
+<img width="1231" height="743" alt="image" src="https://github.com/user-attachments/assets/3389333f-47da-4ee3-bff4-17f200752b4a" />
+
 
 
 

@@ -81,9 +81,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-#### EMPLOYEE DATA 
+### EMPLOYEE DATA 
 <img width="1233" height="746" alt="580548682-c6812a80-194b-49d2-b422-625f16a24332" src="https://github.com/user-attachments/assets/0af3210b-734b-45c2-899e-868a9cbe719f" />
-#### WEATHER DATA
+### WEATHER DATA
 <img width="1230" height="749" alt="580548756-6c27130a-c969-40f0-96f6-fcef77e878ce" src="https://github.com/user-attachments/assets/fab03b65-2767-4c5e-864d-750c78ee8e81" />
 
 
@@ -123,9 +123,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-#### EMPLOYEE DATA
+### EMPLOYEE DATA
 <img width="1234" height="742" alt="580548966-4c0fa438-5c23-403d-87ee-513ca1b487a5" src="https://github.com/user-attachments/assets/3a90d059-8d7e-4793-a23e-c39db897be96" />
-#### WEATHER DATA
+### WEATHER DATA
 <img width="1234" height="742" alt="580549095-3b554f59-3190-4fe3-822f-d4109fca58dc" src="https://github.com/user-attachments/assets/0a5e9e5b-8e29-4b06-97d9-201775832931" />
 
 
